@@ -7,6 +7,8 @@ With this .reg file you can easily remove copilot from windows 11
 3. voilá
 
 -------------------
-Created by: Shawn Brink
-Created on: March 7, 2024
-Tutorial: https://www.elevenforum.com/t/completely-disable-and-remove-copilot-in-windows-11.23264/
+
+#credits
+- Created by: Shawn Brink
+- Created on: March 7, 2024
+- Tutorial: https://www.elevenforum.com/t/completely-disable-and-remove-copilot-in-windows-11.23264/
