@@ -1,4 +1,4 @@
-# removecopilot
+# remove windows 11 copilot
 With this .reg file you can easily remove copilot from windows 11
 
 # how to use.
