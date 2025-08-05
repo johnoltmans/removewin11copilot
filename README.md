@@ -13,5 +13,5 @@
 - ~~Created on: March 7, 2024~~  
 - ~~Tutorial: https://www.elevenforum.com/t/completely-disable-and-remove-copilot-in-windows-11.23264/~~
 
-The above will no longer work!
+The above will no longer work!<br>
 A new way to do this is by using Win11Debloat: https://github.com/Raphire/Win11Debloat
